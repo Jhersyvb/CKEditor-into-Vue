@@ -1,5 +1,9 @@
 # ckeditor
 
+Test CKEditor 5 integration with a vue project
+
+Probar la integración de CKEditor 5 con un proyecto vue
+
 ## Project setup
 ```
 yarn install
