@@ -20,7 +20,7 @@
     "@ckeditor/ckeditor5-theme-lark": "^35.4.0",
     "@ckeditor/ckeditor5-vue": "^1.0.1",
     "core-js": "^3.6.4",
-    "postcss-loader": "^3.0.0",
+    "postcss-loader": "^8.2.1",
     "raw-loader": "^0.5.1",
     "vue": "^3.0.0"
   },
