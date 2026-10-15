@@ -22,7 +22,7 @@
     "core-js": "^3.6.4",
     "postcss-loader": "^8.2.1",
     "raw-loader": "^0.5.1",
-    "vue": "^3.0.0"
+    "vue": "^3.5.44"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.8",
